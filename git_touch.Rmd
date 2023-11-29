@@ -1,0 +1,5 @@
+---
+title: "Test Rmd for git practice"
+name: "Nishtha Sharma"
+output: "github_document"
+---
